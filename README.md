@@ -11,3 +11,11 @@ activity the number of times a user had crossed each of the 4 "virtual gates" on
 It is important to acknowledge that any loop around henderson rec center, or any short cut that is taken by the ECS building end of Chip will still be counted as 
 a lap, as there are multiple/3 different ways in which you can run around Alumni Chip Trail.
 
+<img width="675" alt="PolyLineAnalysis" src="https://github.com/miniman737/AlumniChipTrailCounter/assets/51000189/22fa4650-0321-4221-b130-b0ae6d8493c4">
+Here is an example of how a lap around Chip Trail is counted
+
+#OUTPUT
+Any Activity that contains more than one lap of chip trail has its activity name, distance and lap count outputted for the user in a very friendly fashion
+<img width="959" alt="chipCounterOutput" src="https://github.com/miniman737/AlumniChipTrailCounter/assets/51000189/b9b1e943-45fc-40cd-b3bf-ddc59f7ffa48">
+
+
