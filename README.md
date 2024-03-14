@@ -1,5 +1,5 @@
 # AlumniChipTrailCounter
- A basic python data analytics project that pulls a users strava activity to count the number of times they have run around chip trail
+ A basic python data analytics project that pulls a users strava activity to count the number of times they have run around a popular running trail in Victoria BC
 # Problem
 Team Captain of the University of Victoria Mens Track Team was tasked me with figuring out how to calculate/figure out the ammount of times 
 he had run the alumni chip trail since he started his schooling at UVic
