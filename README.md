@@ -16,6 +16,5 @@ Here is an example of how a lap around Chip Trail is counted
 
 # OUTPUT
 Any Activity that contains more than one lap of chip trail has its activity name, distance and lap count outputted for the user in a very friendly fashion
-<img width="959" alt="chipCounterOutput" src="https://github.com/miniman737/AlumniChipTrailCounter/assets/51000189/b9b1e943-45fc-40cd-b3bf-ddc59f7ffa48">
 
-
+<img width="700" alt="image" src="https://github.com/miniman737/AlumniChipTrailCounter/assets/51000189/0ff95d46-92ba-4b51-90b5-83ba01ded4df">
